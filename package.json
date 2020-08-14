@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Example package",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojBoganadham/Bootstrap.git"
+  },
+  "author": "Manoj Boganadham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojBoganadham/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/ManojBoganadham/Bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4" 
+  }
+}
